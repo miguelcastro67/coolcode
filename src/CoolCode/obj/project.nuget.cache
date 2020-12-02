@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ScbHHg+J5+EtX/jLZIiZewYYLSh0nswUT1QsODJOScOe/5inGOZkMXY/tsG3iclFPFBwuzAFJbRbxxP5TV8FA==",
+  "success": true,
+  "projectFilePath": "F:\\Presentations\\Conferences\\VSLive\\2020-Virtual\\Writing Cool Code\\src\\CoolCode\\CoolCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miguel\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
